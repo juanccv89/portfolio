@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Este portafolio es un proyecto construido como parte del campamento desarrollado por devTools y patrocinado por Softserve en 2023.
+
+Para correr la página, utiliza npm run dev en una terminal.
