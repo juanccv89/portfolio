@@ -42,8 +42,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-
+  flex-wrap: nowrap;
   max-width: 800px;
   margin-top: 3rem;
 }
@@ -80,8 +79,18 @@
   line-height: 1.5;
 }
 
-.logo {
-  height: 1em;
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(77, 77, 88, 0.5);
+
+}
+
+.footer a {
+  margin-left: 10px;
+  color: #000;
+  font-size: 16px;
 }
 
 @media (max-width: 600px) {
